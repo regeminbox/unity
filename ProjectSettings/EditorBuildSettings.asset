@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Stage.unity
+    guid: d4900b58ee1ba3f4a88a3ff01f52b8dc
+  - enabled: 1
+    path: Assets/Scenes/TraficStage.unity
+    guid: b08663a7cb8cca546b803da97254d446
+  - enabled: 1
+    path: Assets/Scenes/FireStage.unity
+    guid: 5c098ed631b3a9a4fbed86b68a533016
+  - enabled: 1
+    path: Assets/Scenes/FireEscape.unity
+    guid: a29ea2c60c4105e4e9e81b8787fc5898
+  - enabled: 1
+    path: Assets/Scenes/FireEnding.unity
+    guid: 6f3a016988cdeea4f83204a9dace2c76
+  m_configObjects: {}

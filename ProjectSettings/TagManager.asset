@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EcapeObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - Player
+  - SolidObjects
+  - EscapeDoor
+  - fireMonster
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ' background'
+    uniqueID: 3278432533
+    locked: 0
+  - name: 1ground
+    uniqueID: 315821033
+    locked: 0
+  - name: foreground
+    uniqueID: 1183022151
+    locked: 0
+  - name: Door
+    uniqueID: 2869321247
+    locked: 0
+  - name: Player
+    uniqueID: 778561869
+    locked: 0
